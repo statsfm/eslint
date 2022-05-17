@@ -1,0 +1,15 @@
+{
+  "name": "@statsfm/eslint",
+  "version": "1.0.0",
+  "description": "The ESLint config used in all stats.fm projects ",
+  "repository": "https://github.com/statsfm/eslint",
+  "author": "statsfm <opensource@stats.fm>",
+  "license": "BSD-3-Clause",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
+  "devDependencies": {
+    "lerna": "3.22.1"
+  }
+}
